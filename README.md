@@ -1,2 +1,3 @@
-Estudio ingeniería de sistemas, voy en segundo semestre
+Estudio ingeniería de sistemas, voy en tercer semestre
 Intento programar
+
