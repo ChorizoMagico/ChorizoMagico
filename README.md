@@ -1,3 +1,3 @@
-Estudio ingeniería de sistemas, voy en tercer semestre
+Estudio ingeniería de sistemas, voy en cuarto semestre
 \nIntento programar
 
